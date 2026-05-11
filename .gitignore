@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.claude/
+*.swp
+*.swo
+
+# Project
+output/
+*.pen
+
+# OS
+.DS_Store
+Thumbs.db
