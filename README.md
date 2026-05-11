@@ -15,16 +15,16 @@ A web-based tool for crawling anime metadata from TheTVDB and generating Emby/Je
 ## Screenshots
 
 ### Homepage
-![Homepage](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/001-homepage.png)
+![Homepage](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/master/screenshots/001-homepage.png)
 
 ### Search Results
-![Search Results](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/002-search-results.png)
+![Search Results](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/master/screenshots/002-search-results.png)
 
 ### Emby / Jellyfin Output Structure
-![Emby Output](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/003-emby-output.png)
+![Emby Output](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/master/screenshots/003-emby-output.png)
 
 ### Season Content & Episode NFO Files
-![Season Structure](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/004-season-structure.png)
+![Season Structure](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/master/screenshots/004-season-structure.png)
 
 ## Installation
 
@@ -161,16 +161,16 @@ MIT License
 ## 預覽截圖
 
 ### 首頁
-![首頁](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/001-homepage.png)
+![首頁](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/master/screenshots/001-homepage.png)
 
 ### 搜尋結果
-![搜尋結果](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/002-search-results.png)
+![搜尋結果](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/master/screenshots/002-search-results.png)
 
 ### Emby / Jellyfin 輸出結構
-![Emby 輸出](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/003-emby-output.png)
+![Emby 輸出](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/master/screenshots/003-emby-output.png)
 
 ### 季內容與各集 NFO 檔案
-![季內容結構](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/004-season-structure.png)
+![季內容結構](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/master/screenshots/004-season-structure.png)
 
 ## 安裝
 
