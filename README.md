@@ -12,9 +12,19 @@ A web-based tool for crawling anime metadata from TheTVDB and generating Emby/Je
 - **NFO Generation** - `tvshow.nfo`, `season.nfo`, and per-episode NFO files ready for your media server
 - **No API Key** - Pure web scraping approach, no registration needed
 
-## Screenshot
+## Screenshots
 
-![TheTVDB NFO Crawler UI](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshot.png)
+### Homepage
+![Homepage](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/001-homepage.png)
+
+### Search Results
+![Search Results](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/002-search-results.png)
+
+### Emby / Jellyfin Output Structure
+![Emby Output](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/003-emby-output.png)
+
+### Season Content & Episode NFO Files
+![Season Structure](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/004-season-structure.png)
 
 ## Installation
 
@@ -147,6 +157,20 @@ MIT License
 - **圖片下載** - 海報、粉絲藝術、透明標誌、橫幅、季別海報與各集縮圖
 - **NFO 產生** - 自動產生 `tvshow.nfo`、`season.nfo` 及各集 NFO 檔案
 - **不需 API Key** - 純網頁爬蟲方式，不需註冊
+
+## 預覽截圖
+
+### 首頁
+![首頁](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/001-homepage.png)
+
+### 搜尋結果
+![搜尋結果](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/002-search-results.png)
+
+### Emby / Jellyfin 輸出結構
+![Emby 輸出](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/003-emby-output.png)
+
+### 季內容與各集 NFO 檔案
+![季內容結構](https://raw.githubusercontent.com/acer1204/TheTVDB-NFO-Crawler/main/screenshots/004-season-structure.png)
 
 ## 安裝
 
